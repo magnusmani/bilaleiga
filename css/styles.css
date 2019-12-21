@@ -3,9 +3,6 @@ div {
     width:100%;
     display:inline-block;
     float:left;
-  }
-
-div.midja {
     text-decoration: none;
     font-family: monaco;
     font color: white;
@@ -17,7 +14,6 @@ a {
   border-style: outset;
   border-color: red;
   color: red;
-  font-style: monaco;
 }
 
 a:visited {
